@@ -1,0 +1,3 @@
+Bayesian on Terrorism
+
+This project focuses on using Bayesian inference to test the populations of terrorism. The dataset contained all terrorist attacks from 1970. After some exploratory analysis comparing the number of attacks across different regions, I decided to focus the regions with the least number of attacks. After analyzing the countries in those regions, I narrowed my focus on Japan and China the largest economic countries in the region. By using Bayesian inference with a Monty Carlo Markov Chain I was able to recreate the populations to test the statistical difference. This would let me know wether there is a difference in the number of attacks between the countries.
